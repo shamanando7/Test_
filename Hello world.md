@@ -3,3 +3,5 @@
 This cat - best cat!
 
 ## Second commit!
+
+Smile!
